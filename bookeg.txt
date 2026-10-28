@@ -1,0 +1,6 @@
+u:v,x
+v:y
+y:x
+x:v
+w:y,z
+z:z

@@ -1,0 +1,8 @@
+s  : r,w 
+r  : v,s 
+t  : w,x,u 
+u  : t,x,y 
+v  : r 
+w  : s,t,x 
+x  : w,t,u,y 
+y  : x,u
